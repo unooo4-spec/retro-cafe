@@ -7,7 +7,7 @@ body {
 /* メイン */
 .main {
   height: 100vh; 
-  background-image: url("main.jpg");
+  background-image: url(images/main.jpg);
   background-size: cover;
   background-position: center; 
   position: relative;

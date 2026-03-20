@@ -95,12 +95,12 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  
+
   gap: 30px;
- 
-  .menu-item {
-  width: 200px;
-} 
+
+  max-width: 800px;   
+  margin: 0 auto;     
+}
 
 
 

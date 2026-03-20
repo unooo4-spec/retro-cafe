@@ -122,6 +122,9 @@ body {
   border-radius: 20px;
 }
 
+.cake {
+  object-position: center;
+}
 /* 情報 */
 .info {
   padding: 40px;

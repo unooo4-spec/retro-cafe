@@ -183,11 +183,10 @@ body {
   }
 
   .master img {
-    width: 80%;
-    max-width: 300px;
-    height: auto;
-  }
-
+  width: 100%;
+  max-width: 250px; /* ←ここを調整 */
+  height: auto;
+　}
 }
 
 

@@ -66,9 +66,11 @@ body {
 
 @media (max-width: 600px) {
   .main-text h1 {
-    font-size: 40px;
+    font-size: 8vw;
+    white-space: nowrap;
   }
 }
+
 
 .sub p {
   width: 300px;

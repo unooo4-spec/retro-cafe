@@ -94,9 +94,11 @@ body {
   display: flex;
   justify-content: center;
   gap: 30px;
-
-  max-width: 500px;  
+ 
+  max-width: 500px; 
+    margin: 0 auto;  
 }
+
 
 
 .menu-item {

@@ -65,10 +65,11 @@ body {
 }
 
 @media (max-width: 600px) {
-  .about {
-    flex-direction: column;
+  .main-text h1 {
+    font-size: 40px;
   }
 }
+
 .sub p {
   width: 300px;
   line-height: 1.8; 

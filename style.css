@@ -176,6 +176,7 @@ body {
 
   /* ★ここ追加（masterの修正） */
   .master {
+    display: flex;
     flex-direction: column;
     text-align: center;
   }

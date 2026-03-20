@@ -98,9 +98,10 @@ body {
   
   gap: 30px;
  
-   max-width: 800px; 
-    margin: 0 auto;  
-}
+  .menu-item {
+  width: 200px;
+} 
+
 
 
 

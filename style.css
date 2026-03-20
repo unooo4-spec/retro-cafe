@@ -151,16 +151,18 @@ body {
   cursor: pointer;
 }
 
-@media (max-width: 600px) {
-
-  .menu {
-    flex-direction: column;
-  }
-
-  .menu {
+/* ← PC・通常表示 */
+.menu {
   display: flex;
   justify-content: center;
   gap: 30px;
+}
+
+/* ← スマホ用 */
+@media (max-width: 600px) {
+  .menu {
+    flex-direction: column;
+  }
 }
   .menu-item {
     width: 100%;

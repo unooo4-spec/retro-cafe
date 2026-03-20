@@ -166,6 +166,12 @@ body {
     font-size: 40px;
   }
 
+  .master {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
   .main {
     height: auto !important;
     min-height: auto;

@@ -163,8 +163,9 @@ body {
 /* ← スマホ用 */
 @media (max-width: 600px) {
   .menu {
- 
- }
+    flex-direction: column;
+  } 
+}
 
   .menu-item {
   width: auto;

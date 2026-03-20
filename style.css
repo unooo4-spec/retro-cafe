@@ -124,10 +124,9 @@ body {
 }
 
 .menu-item img {
-  width: 200px;
+  width: 100%;
+  max-width: 200px;
   border-radius: 20px;
-  display: block;
-  margin: 0 auto;
 }
 
 

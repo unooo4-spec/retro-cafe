@@ -126,6 +126,8 @@ body {
 .menu-item img {
   width: 200px;
   border-radius: 20px;
+  display: block;
+  margin: 0 auto;
 }
 
 

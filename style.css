@@ -172,4 +172,9 @@ body {
     min-height: auto;
     padding: 40px 20px;
   }
+ .main-text {
+    position: static;
+    text-align: center;
+    margin-top: 20px;
+  }
 }

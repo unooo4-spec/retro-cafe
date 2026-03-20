@@ -109,13 +109,12 @@ body {
   width: 220px;
   text-align: center;
 }
+
 .menu-item img {
   width: 100%;
-  height: 200px;
+  height: 200px !important;
   object-fit: cover;
-  border-radius: 10px;
 }
-
 
 /* 情報 */
 .info {

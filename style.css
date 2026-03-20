@@ -166,8 +166,10 @@ body {
   }
 
   
- .main {
+ @media (max-width: 600px) {
+  .main {
     height: auto;
+    min-height: auto;
     padding: 40px 20px;
   }
 }

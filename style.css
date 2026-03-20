@@ -174,21 +174,24 @@ body {
     margin-top: 20px;
   }
 
- .master {
-  display: flex;
-  flex-direction: column;
-  align-items: center;  /* ← 中央揃え */
-  text-align: center;
+  /* ★ここに入れる */
+  .master {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .master img {
+    width: 80%;
+    max-width: 300px;
+    height: auto;
+  }
+
 }
 
-.master img {
-  width: 80%;
-  max-width: 300px;
-  height: auto;
-}
 
-
-
+  
 
 
 

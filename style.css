@@ -155,14 +155,18 @@ body {
   .menu {
     flex-direction: column;
   }
+
   .menu-item {
     width: 100%;
     margin-bottom: 20px;
   }
-.main-text h1 {
+
+  .main-text h1 {
     font-size: 40px;
   }
-main {
+
+  
+  .main {
     height: auto;
     padding: 40px 20px;
   }

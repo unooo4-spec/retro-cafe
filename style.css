@@ -209,7 +209,7 @@ body {
 　}
 }
 
-/* スマホ用 */
+
 @media (max-width: 600px) {
   .about {
     flex-direction: column;

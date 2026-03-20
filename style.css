@@ -151,6 +151,7 @@ body {
   cursor: pointer;
 }
 
+
 @media (max-width: 600px) {
   .menu {
     flex-direction: column;
@@ -165,16 +166,19 @@ body {
     font-size: 40px;
   }
 
-  
- @media (max-width: 600px) {
   .main {
     height: auto !important;
     min-height: auto;
     padding: 40px 20px;
   }
- .main-text {
+
+  .main-text {
     position: static;
     text-align: center;
     margin-top: 20px;
   }
 }
+
+
+  
+

@@ -118,6 +118,12 @@ body {
   margin-top: 40px;     
 } 
 
+/* スマホ用 */
+@media (max-width: 600px) {
+  .about {
+    flex-direction: column;
+  }
+}
 .info p {
   margin: 10px 0;
 }

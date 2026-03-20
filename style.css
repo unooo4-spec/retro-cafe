@@ -93,6 +93,9 @@ body {
 .menu {
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
   gap: 30px;
  
   max-width: 500px; 

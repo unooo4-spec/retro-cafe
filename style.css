@@ -165,9 +165,10 @@ body {
  }
 
   .menu-item {
-    width: 100%;
-    margin-bottom: 20px;
-  }
+  width: auto;
+  margin-bottom: 20px;
+  text-align: center;
+}
 
   .main {
     height: auto !important;

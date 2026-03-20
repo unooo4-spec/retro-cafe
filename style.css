@@ -179,7 +179,7 @@ body {
     flex-direction: column;
     text-align: center;
   }
-
+}
   .master img {
     width: 80%;   /* ← ここがポイント！ */
     max-width: 300px;

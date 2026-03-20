@@ -151,8 +151,8 @@ body {
   cursor: pointer;
 }
 
-
 @media (max-width: 600px) {
+
   .menu {
     flex-direction: column;
   }
@@ -161,7 +161,6 @@ body {
     width: 100%;
     margin-bottom: 20px;
   }
-}
 
   .main {
     height: auto !important;
@@ -175,26 +174,22 @@ body {
     margin-top: 20px;
   }
 
-.master {
+  /* ★ここ追加（masterの修正） */
+  .master {
     flex-direction: column;
     text-align: center;
   }
 
   .master img {
-    width: 100%;
+    width: 80%;   /* ← ここがポイント！ */
+    max-width: 300px;
     height: auto;
-  }
-}
- .master {
-    flex-direction: column;
-    text-align: center;
   }
 
-  .master img {
-    width: 100%;
-    height: auto;
-  }
 }
+
+
+
 
 
   

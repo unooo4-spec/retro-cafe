@@ -162,4 +162,8 @@ body {
 .main-text h1 {
     font-size: 40px;
   }
+main {
+    height: auto;
+    padding: 40px 20px;
+  }
 }
